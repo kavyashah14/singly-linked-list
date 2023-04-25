@@ -23,6 +23,8 @@ struct Node
 
 # Applications of Singly Linked List :
 
-The singly linked list is used to implement stack and queue.
-The undo or redo options, the back buttons, etc., that we discussed above are implemented using a singly linked list.
-During the implementation of a hash function, there arises a problem of collision, to deal with this problem, a singly linked list is used.
+1. The singly linked list is used to implement stack and queue.
+
+2. The undo or redo options, the back buttons, etc., that we discussed above are implemented using a singly linked list.
+
+3. During the implementation of a hash function, there arises a problem of collision, to deal with this problem, a singly linked list is used.
